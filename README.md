@@ -1,5 +1,5 @@
 # B7-Cyber-Boost
-B7 Cyber Boost - Otimização Avançada para seu Computador
+B7 Cyber Boost - Otimização Avançada para seu Computador.
 
 🎮 **Melhore o desempenho do seu PC e eleve sua jogabilidade ao próximo nível!**
 
