@@ -1,8 +1,11 @@
 # B7-Cyber-Boost
 B7 Cyber Boost - Otimização Avançada para seu Computador
+
 🎮 **Melhore o desempenho do seu PC e eleve sua jogabilidade ao próximo nível!**
 
 ![Image](https://github.com/user-attachments/assets/acec1d58-1cb7-47a6-87dd-d2a44aa174aa)
+
+# Reconhece as necessidades do seu computador e aplica as configurações ideais de forma automática.
 
 > **Convite fixo para a comunidade no Discord:**  
 > 🔗 https://discord.gg/DYzSfHcZEc  
@@ -42,11 +45,11 @@ Se você é um entusiasta de jogos, sabe que desempenho importa.
 **B7 Cyber Boost** é uma ferramenta de **otimização completa para Windows**, desenvolvida para gamers, streamers e usuários que desejam o **máximo desempenho possível**.
 
 ### ✅ O que o aplicativo oferece:
-- Desativação de serviços e processos desnecessários
-- Aplicação de ajustes no registro para melhor performance
-- Tweaks visuais e ajustes de latência (NVIDIA, AMD, DirectX, etc)
-- Scripts automatizados com **PowerShell**, **.bat** e integração com C#
-- Interface amigável com foco em simplicidade e potência
+- Desativação de serviços e processos desnecessários.
+- Aplicação de ajustes no registro para melhor performance.
+- Tweaks visuais e ajustes de latência (NVIDIA, AMD, INTEL, etc).
+- Reconhece as necessidades do seu computador e aplica as configurações ideais de forma automática.
+- Interface amigável com foco em simplicidade.
 
 ---
 
