@@ -17,7 +17,7 @@ B7 Cyber Boost - Otimização Avançada para seu Computador
 ### 📦 1. Download do Programa  
 Faça o download do **B7 Cyber Boost** e salve a pasta diretamente na sua **Área de Trabalho**.
 
-🔗 **Link de Download:**  
+🔗 **Link de download alternativo via Mega:**  
 https://mega.nz/file/UrczGaJY#x-7Vm-M0JRphhVmu_eymVkZK6f5rH-7ZUPlJT8KIdOY
 
 🛠️ **Versão Atual:** `v7.7.1`  
