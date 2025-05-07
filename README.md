@@ -21,14 +21,6 @@ https://mega.nz/file/UrczGaJY#x-7Vm-M0JRphhVmu_eymVkZK6f5rH-7ZUPlJT8KIdOY
 📅 **Atualizado em:** 28/04/2025  
 🧩 **Alterações:** Correção de menu NVIDIA
 
-~~🛠️ Versão Anterior: ~~`v7.7.0` — 27/04/2025
-~~🛠️ Versão Anterior: ~~`v6.1.0` — 07/09/2024
-~~🛠️ Versão Anterior: ~~`v5.1.0` — 01/05/2024
-~~🛠️ Versão Anterior: ~~`v4.7.0` — 12/02/2024
-~~🛠️ Versão Anterior: ~~`v3.7.0` — 20/12/2023
-~~🛠️ Versão Anterior: ~~`v3.1.0` — 11/04/2022
-~~🛠️ Versão Anterior: ~~`v2.1.0` — 08/06/2021
-
 ---
 
 ### 📂 2. Localização e Execução  
