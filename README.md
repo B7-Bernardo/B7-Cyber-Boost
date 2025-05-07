@@ -20,9 +20,8 @@ Faça o download do **B7 Cyber Boost** e salve a pasta diretamente na sua **Áre
 🔗 **Link de download alternativo via Mega:**  
 https://mega.nz/file/UrczGaJY#x-7Vm-M0JRphhVmu_eymVkZK6f5rH-7ZUPlJT8KIdOY
 
-🛠️ **Versão Atual:** `v7.7.1`  
-📅 **Atualizado em:** 28/04/2025  
-🧩 **Alterações:** Correção de menu NVIDIA
+🛠️ **Versão Atual:** `v8.0.0`  
+📅 **Atualizado em:** 07/05/2025  
 
 ---
 
