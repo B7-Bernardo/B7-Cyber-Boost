@@ -1,5 +1,3 @@
-Claro, B7! Aqui está a **tradução completa para o inglês** do conteúdo solicitado, já com uma estrutura pronta para o arquivo `user settings windows - english.md`, ideal para publicação no GitHub:
-
 ---
 
 ## ⚙️ **Windows Settings – B7 Cyber Boost Guide**
@@ -160,5 +158,3 @@ Core Parking disables idle CPU cores to save power, but this can cause:
 In short, the Windows Update function in B7 Cyber Boost focuses on security and avoiding interruptions, keeping your system updated directly from Microsoft without intrusive notifications.
 
 ---
-
-Se quiser, posso salvar esse conteúdo num arquivo `.md` pronto pra subir pro GitHub, com formatação validada. Deseja isso?
