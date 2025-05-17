@@ -2,6 +2,9 @@
 
 ## ⚙️ **Configurações do Windows – Guia B7 Cyber Boost**
 
+![image](https://github.com/user-attachments/assets/5a73b0c4-39ea-45d1-9c84-608a995672bd)
+
+
 ### 🧠 Configurações Inteligentes Automatizadas
 Todas as otimizações são aplicadas automaticamente, sem que você precise configurar manualmente cada item.
 
