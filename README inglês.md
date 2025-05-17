@@ -1,3 +1,4 @@
+
 ---
 
 # B7-Cyber-Boost
@@ -65,11 +66,12 @@ If you're a gaming enthusiast, you know performance matters.
 
 ## 📎 Support & Contact
 
-📫 GitHub: [B7-Bernardo](https://github.com/B7-Bernardo)
-📺 YouTube: [B7's Channel](https://www.youtube.com/c/CanaldoB7)
-📷 Instagram: [@canaldob7](https://www.instagram.com/canaldob7)
-💬 Discord: [B7 Community](https://discord.gg/DYzSfHcZEc)
-✉️ Email: [contatobernardocaldeira@gmail.com](mailto:contatobernardocaldeira@gmail.com)
+📫 GitHub: [B7-Bernardo](https://github.com/B7-Bernardo)  
+📺 YouTube: [Canal do B7](https://www.youtube.com/c/CanaldoB7)  
+📷 Instagram: [@canaldob7](https://www.instagram.com/canaldob7)  
+💬 Discord: [Comunidade B7](https://discord.gg/DYzSfHcZEc)  
+✉️ E-mail: contatobernardocaldeira@gmail.com
+
 
 ---
 
