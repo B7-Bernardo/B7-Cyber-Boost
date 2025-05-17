@@ -1,5 +1,6 @@
 # ⚡ Internet — Configurações Otimizadas (Português - Brasil)  
 **Arquivo oficial de configurações do B7 Cyber Boost**
+![image](https://github.com/user-attachments/assets/842854f2-ad41-45cd-a43e-a43c10c1fdc3)
 
 > A estabilidade da sua rede de internet é crucial para o sucesso da sua empresa ou da sua gameplay.  
 Imagine jogar uma partida importante e a conexão cair no meio...
