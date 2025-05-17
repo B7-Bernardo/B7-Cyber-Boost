@@ -1,6 +1,8 @@
 ---
 
 ## ⚙️ **Windows Settings – B7 Cyber Boost Guide**
+![image](https://github.com/user-attachments/assets/7393e84a-b34c-4119-95e0-ab08faba05ba)
+
 
 ### 🧠 Smart Automated Settings
 
