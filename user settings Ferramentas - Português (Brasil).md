@@ -8,7 +8,8 @@
 
 O Windows é um sistema cheio de recursos pouco explorados. Quem vai além do básico descobre um novo mundo de possibilidades.
 
-![Imagem 1](inserir_caminho_ou_link)
+![image](https://github.com/user-attachments/assets/36d554cb-950c-42bd-a804-19dbf354ba1e)
+
 
 ---
 
@@ -18,7 +19,8 @@ O Windows é um sistema cheio de recursos pouco explorados. Quem vai além do b�
 
 Ferramenta nativa que ajuda a identificar problemas de software que afetam a performance e confiabilidade do sistema.
 
-![Imagem 2](inserir_caminho_ou_link)
+![image](https://github.com/user-attachments/assets/eea8096f-35f9-48bb-bbc9-2d7ad8a4c0d0)
+
 
 ### 🔧 Como funciona?
 
@@ -31,9 +33,6 @@ Assim como um carro moderno monitora combustível, pressão dos pneus e outros i
 
 Esses dados geram contadores de performance e logs de eventos. O **Monitor de Performance** usa isso para exibir resumos visuais fáceis de entender.
 
-```
-◢▬ ▬▬▬▬▬▬▬▬▬▬▬▬▛▚▟▬▬▬▬▬▬▬▬▬▬▬▬ ▬◣
-```
 
 ---
 
@@ -41,17 +40,20 @@ Esses dados geram contadores de performance e logs de eventos. O **Monitor de Pe
 
 ### ✅ SFC & DISM — Corrigir arquivos do sistema:
 
-```cmd
+```
+cmd
 dism /online /cleanup-image /restorehealth
 dism /online /cleanup-image /CheckHealth
 sfc /scannow
+
 ```
 
 > Aguarde a conclusão de cada comando.
 
 ### 💽 CHKDSK — Corrigir erros no disco:
 
-```cmd
+```
+cmd
 chkdsk /f /r /b
 ```
 
@@ -60,10 +62,6 @@ chkdsk /f /r /b
 - Se demorar muito: verifique a saúde do disco com **CrystalDiskInfo** ou similar.
 
 **Atenção:** Não use CHKDSK se o problema for com arquivos grandes (>4GB) ou pendrives. Isso é normal.
-
-```
-◢▬ ▬▬▬▬▬▬▬▬▬▬▬▬▛▚▟▬▬▬▬▬▬▬▬▬▬▬▬ ▬◣
-```
 
 ---
 
@@ -79,9 +77,8 @@ Com o tempo, o Windows acumula arquivos inúteis.
 
 > Resultado: mais GB livres no disco e sistema mais leve.
 
-```
-◢▬ ▬▬▬▬▬▬▬▬▬▬▬▬▛▚▟▬▬▬▬▬▬▬▬▬▬▬▬ ▬◣
-```
+
+
 
 ---
 
@@ -93,29 +90,26 @@ Ative o **Modo Escuro** no Chrome, apps do Windows e explorador de arquivos.
 ✅ Redução de consumo de energia em telas OLED  
 ✅ Visual moderno e agradável
 
-```
-◢▬ ▬▬▬▬▬▬▬▬▬▬▬▬▛▚▟▬▬▬▬▬▬▬▬▬▬▬▬ ▬◣
-```
 
 ---
 
 ## 🌀 **G0dMode**
 
+
 ### 💡 Central de Controle Total do Windows
 
 Agrupe *todas* as configurações do Windows em uma única pasta acessível com este truque:
+![image](https://github.com/user-attachments/assets/48458219-a2e4-4f18-aba8-c71735290d8d)
+
 
 1. Crie uma nova pasta
 2. Renomeie para:
 ```
 G0dMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 ```
-
+![image](https://github.com/user-attachments/assets/744cf520-b6e4-4f02-97e1-7a350a2505fd)
 Pronto! Agora você tem acesso a **todos os ajustes** do sistema em um só lugar.
 
-```
-◢▬ ▬▬▬▬▬▬▬▬▬▬▬▬▛▚▟▬▬▬▬▬▬▬▬▬▬▬▬ ▬◣
-```
 
 ---
 
@@ -129,9 +123,6 @@ Pronto! Agora você tem acesso a **todos os ajustes** do sistema em um só lugar
 - Preferência por outro serviço (Google Drive, Dropbox)
 - Reduz notificações e integrações indesejadas
 
-```
-◢▬ ▬▬▬▬▬▬▬▬▬▬▬▬▛▚▟▬▬▬▬▬▬▬▬▬▬▬▬ ▬◣
-```
 
 ---
 
@@ -147,9 +138,7 @@ Evite erros em jogos e programas por falta de runtime:
 
 **Adeus mensagens de erro!**
 
-```
-◢▬ ▬▬▬▬▬▬▬▬▬▬▬▬▛▚▟▬▬▬▬▬▬▬▬▬▬▬▬ ▬◣
-```
+
 
 ---
 
@@ -157,10 +146,12 @@ Evite erros em jogos e programas por falta de runtime:
 
 Use o **Gerenciador de energia avançado** para desbloquear configurações ocultas.
 
-![Imagem 3](inserir_caminho_ou_link)  
+![image](https://github.com/user-attachments/assets/2b22d577-61ce-49be-a0ae-3ef7f4639db7)
+ 
 *Novas opções surgem após aplicar o comando via CMD.*
 
-![Imagem 4](inserir_caminho_ou_link)
+![image](https://github.com/user-attachments/assets/33d72925-f875-4cbe-82a8-2e17c431af7f)
+
 
 ### 🔌 Desative “Processador ocioso rebaixar/promover limite”
 
@@ -172,10 +163,6 @@ Ajustes avançados que **evitam perda de desempenho** por economia desnecessári
 [YouTube B7 Cyber Boost](https://www.youtube.com/channel/UCAS-1U33A47hDISamAnOO-g)
 
 **Importante:** Sempre entenda o que está sendo ajustado. Alterações mal feitas podem prejudicar o sistema.
-
-```
-◢▬ ▬▬▬▬▬▬▬▬▬▬▬▬▛▚▟▬▬▬▬▬▬▬▬▬▬▬▬ ▬◣
-```
 
 ---
 
