@@ -46,8 +46,9 @@ These settings are applied to **minimize input lag** and make your keyboard more
 ---
 
 # 🎯 **Keyboard Configuration Options (Gamer Mode)**
-![image](https://github.com/user-attachments/assets/87fdb13c-89e9-4496-9f4a-af90fd19a7df)
 Choose the best configuration for your gaming style:
+![image](https://github.com/user-attachments/assets/87fdb13c-89e9-4496-9f4a-af90fd19a7df)
+
 
 ### 🥇 **Recommended:** Fast key repeat + no input lag  
 > Ideal for action, FPS, and platformer games.
