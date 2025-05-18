@@ -9,7 +9,8 @@ B7 Cyber Boost - Otimização Avançada para seu Computador.
 ![Image](https://github.com/user-attachments/assets/acec1d58-1cb7-47a6-87dd-d2a44aa174aa)
 
 # Reconhece as necessidades do seu computador e aplica as configurações ideais de forma automática.  
-*Automatically recognizes your computer’s needs and applies the ideal settings.*
+
+# *Automatically recognizes your computer’s needs and applies the ideal settings.*
 
 > **Convite fixo para a comunidade no Discord:**  
 > 🔗 https://discord.gg/DYzSfHcZEc  
