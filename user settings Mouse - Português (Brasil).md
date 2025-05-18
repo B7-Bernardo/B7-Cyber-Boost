@@ -3,6 +3,7 @@
 
 Você sabia que as configurações do seu mouse podem afetar significativamente o desempenho e a precisão do cursor?  
 Ajustar essas configurações pode eliminar a aceleração indesejada e reduzir o input lag, proporcionando uma experiência de uso mais suave e responsiva.
+![image](https://github.com/user-attachments/assets/b0eae56e-6f69-483f-bfb5-c16d3e66f984)
 
 ---
 
@@ -35,14 +36,8 @@ Com essas dicas e as configurações do B7 Cyber Boost, sua experiência será m
 
 ---
 
-```
-◢▬ ▬▬▬▬▬▬▬▬▬▬▬▬▛▚▟▬▬▬▬▬▬▬▬▬▬▬▬ ▬◣
-```
-
----
-
 # 🎮 **Como Funciona o Conversor de Sensibilidade**
-
+![image](https://github.com/user-attachments/assets/da57f26a-098a-41d1-b3fb-4c5653ce6281)
 ### 📐 **B7 Cyber Boost: Encontre a Configuração Perfeita para Cada Jogo!**
 
 Para alcançar a melhor experiência nos seus jogos, a **configuração ideal** é fundamental!
