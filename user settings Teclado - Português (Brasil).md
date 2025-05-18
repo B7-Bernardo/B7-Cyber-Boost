@@ -1,5 +1,8 @@
 
 # 🎮 **Configurações para um Teclado sem Input Lag e Confortável para Jogos**
+
+![image](https://github.com/user-attachments/assets/1cbdc930-9cfb-4d2b-8fda-4a7540ec623c)
+
 **B7 Cyber Boost: Teclado Gamer Sem Atraso e Confortável!**  
 *Guia oficial de performance e conforto para jogadores exigentes*
 
@@ -43,8 +46,9 @@ Estas são as configurações aplicadas para **reduzir ao máximo o input lag** 
 ---
 
 # 🎯 **Opções de Configuração de Teclado (Modo Gamer)**
-
 Escolha a configuração ideal para o seu estilo de jogo:
+![image](https://github.com/user-attachments/assets/87fdb13c-89e9-4496-9f4a-af90fd19a7df)
+
 
 ### 🥇 **Recomendada:** Repetição de teclas rápida + sem input lag  
 > Ideal para jogos de ação, FPS e plataformas.
