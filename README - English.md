@@ -23,9 +23,6 @@
 
 Download **B7 Cyber Boost** and save the folder directly to your **Desktop**.
 
-🔗 **Alternative download link via Mega:**
-[https://mega.nz/file/UrczGaJY#x-7Vm-M0JRphhVmu\_eymVkZK6f5rH-7ZUPlJT8KIdOY](https://mega.nz/file/UrczGaJY#x-7Vm-M0JRphhVmu_eymVkZK6f5rH-7ZUPlJT8KIdOY)
-
 🛠️ **Current Version:** `v8.0.0`
 📅 **Last Updated:** 2025-05-07
 
