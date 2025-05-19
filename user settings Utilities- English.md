@@ -1,4 +1,4 @@
-# 🧠 **user settings Keyboard - English (US)**
+# 🧠 **user settings utilities - English (US)**
 
 🔧 *Optimized version for GitHub with B7 Cyber Boost identity*
 
