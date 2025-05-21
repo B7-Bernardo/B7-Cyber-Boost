@@ -80,7 +80,7 @@ Se você é um entusiasta de jogos, sabe que desempenho importa.
 📺 YouTube: [Canal do B7](https://www.youtube.com/c/CanaldoB7)  
 📷 Instagram: [@canaldob7](https://www.instagram.com/canaldob7)  
 💬 Discord: [Comunidade B7](https://discord.gg/DYzSfHcZEc)  
-✉️ E-mail: contatobernardocaldeira@gmail.com  
+
 *GitHub, YouTube, Instagram, Discord and email support channels.*
 
 ---
