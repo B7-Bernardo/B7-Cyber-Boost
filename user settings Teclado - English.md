@@ -11,6 +11,13 @@ Whether you're exploring virtual worlds or dominating fast-paced matches, your k
 
 This guide shows you how to **optimize your keyboard** to **eliminate input lag** and make it **more comfortable** for long gaming sessions.
 
+**Snap Tap Usage Policy**
+
+<img width="910" height="305" alt="image" src="https://github.com/user-attachments/assets/cf21ca5c-8455-48cb-80d7-4aadb4fd7b5a" />
+
+Snap Tap Usage Policy
+We recommend using Snap Tap only for single-player games. In games with multiplayer functionality, this technology can alter competitive dynamics and is often interpreted by anti-cheat systems as a form of cheating. To avoid compliance issues or penalties, please refrain from using it in those scenarios.
+
 ---
 
 # ⚡ **Eliminating Input Lag**
