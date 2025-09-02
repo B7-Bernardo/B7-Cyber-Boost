@@ -25,8 +25,7 @@ B7 Cyber Boost - Otimização Avançada para seu Computador.
 Faça o download do **B7 Cyber Boost** e salve a pasta diretamente na sua **Área de Trabalho**.  
 *Download **B7 Cyber Boost** and save the folder directly to your **Desktop**.*
 
--🛠️ **Versão Atual:** `v8.0.0` • 📅 **Atualizado em:** 07/05/2025  
--*🛠️ Current Version: `v8.0.0` • 📅 Updated on: 05/07/2025*
+-🛠️ **Versão Atual:** `v8.0.0` • 📅 **Atualizado em:** 03/09/2025  
 
 ---
 
