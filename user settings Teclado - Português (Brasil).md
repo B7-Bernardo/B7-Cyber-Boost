@@ -12,7 +12,12 @@ Seja para explorar mundos virtuais ou vencer em combates rápidos, o seu teclado
 Este guia mostra como **otimizar seu teclado** para **eliminar o input lag** e **torná-lo mais confortável** para longas sessões de jogo.
 
 ---
+
+**Recomendamos o Snap Tap apenas para jogos de um único jogador.**
+
 <img width="910" height="305" alt="image" src="https://github.com/user-attachments/assets/f1679312-9ac9-41c2-aa40-8301a8b000b5" />
+
+**Recomendamos o Snap Tap apenas para jogos de um único jogador.** Em jogos com funcionalidades multiplayer, esta tecnologia pode alterar a dinâmica competitiva, sendo frequentemente interpretada por sistemas anti-cheat como uma forma de trapaça. Para evitar problemas de conformidade ou penalidades, evite seu uso nesses cenários.
 
 # ⚡ **Eliminando o Input Lag**
 
