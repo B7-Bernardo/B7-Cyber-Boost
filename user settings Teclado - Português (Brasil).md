@@ -12,6 +12,7 @@ Seja para explorar mundos virtuais ou vencer em combates rápidos, o seu teclado
 Este guia mostra como **otimizar seu teclado** para **eliminar o input lag** e **torná-lo mais confortável** para longas sessões de jogo.
 
 ---
+<img width="910" height="305" alt="image" src="https://github.com/user-attachments/assets/f1679312-9ac9-41c2-aa40-8301a8b000b5" />
 
 # ⚡ **Eliminando o Input Lag**
 
