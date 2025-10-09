@@ -110,6 +110,46 @@ Ative o **Ultimate Performance** para liberar o potencial total da CPU e GPU:
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 powercfg -setactive e9a42b02-d5df-448d-aa00-03f14749eb61
 ```
+Análise da Detecção
+
+Método Usado: Baseado em Environment.OSVersion.Version.Build (via RtlGetVersion API, que é confiável em .NET).
+
+Windows 10: Build < 22000 (ex.: 19045 para 22H2).
+Windows 11: Build >= 22000 (ex.: 26100 para 24H2; 26200 para 25H2).
+
+
+Vantagens: Simples, sem dependências externas, funciona em .NET Framework/Core. Não usa systeminfo (lento) ou NuGet (desnecessário aqui).
+Limitações: Em alguns cenários de compatibilidade, pode precisar de SetProcessDpiAwarenessContext para precisão, mas para isso basta.
+Lógica: Se Win11 (>= 22000), usa valor 3 (novo comportamento); senão (Win10 ou legado), usa 2. O resto do código (máscara, sincronização, Explorer) é comum.
+
+no Windows 11 (a partir da versão 24H2 e especialmente 25H2), a chave
+
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\VisualFXSetting
+
+
+não é mais o controle mestre do modo “Ajustar para melhor aparência / desempenho / personalizar”.
+Ela é apenas informativa — o sistema agora lê e grava a preferência visual principal em outro local, especificamente:
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+
+
+e na máscara binária:
+
+HKEY_CURRENT_USER\Control Panel\Desktop\UserPreferencesMask
+
+
+Portanto:
+
+Definir apenas VisualFXSetting = 2 não altera o modo para “Personalizar”; o painel “Opções de Desempenho” continuará exibindo “Ajustar para melhor desempenho”.
+
+O Windows 11 usa lógica combinada — ele recalcula o estado visual com base nos bits da UserPreferencesMask e ignora o valor de VisualFXSetting se houver inconsistência.
+
+Se o registro for limpo e recriado (como no seu código), o Windows tende a recriar VisualFXSetting = 1 (melhor desempenho) na próxima inicialização do Explorer.
+
+✅ Solução recomendada:
+
+Após definir suas preferências visuais (bits específicos na UserPreferencesMask), defina também VisualFXSetting = 3, não 2.
+O valor 3 é o que o Windows interpreta como “Let Windows choose / Custom” nas versões mais recentes.
 
 ---
 
