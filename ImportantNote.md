@@ -60,7 +60,29 @@ reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v Sh
 * Build 25H2 introduziu **Energy Efficiency Scheduler**; efeito pleno somente com plano “Alto Desempenho” ou “Ultimate Performance”.
 * Script ajustado para incluir `/attributes` e relaxar validação `max` em settings discretos.
 
+
 ---
+
+
+PRIVACIDADE DO USUARIO APRIMORADA E REVISADA 25H2 WINDOWS 11
+
+✅ Pontos Positivos
+1. Desativação de Coleta de Dados e Personalização
+
+O código desabilita a coleta de dados de diagnóstico, personalização de entrada e sugestões baseadas em nuvem, ajustando chaves como AllowTelemetry, AllowInputPersonalization e TailoredExperiences. Essas ações ajudam a limitar a quantidade de dados enviados à Microsoft, alinhando-se às práticas recomendadas para aumentar a privacidade do usuário. 
+Microsoft Learn
+
+2. Controle de Funcionalidades de Publicidade e Aplicativos
+
+A desativação de funcionalidades como AdvertisingInfo, EnableWebContentEvaluation, DisableSearchBoxSuggestions e o controle de acesso de aplicativos em segundo plano (BackgroundAccessApplications) contribuem para reduzir o rastreamento e a coleta de dados por aplicativos e serviços de publicidade. 
+theregister.com
+
+3. Desativação de Funcionalidades de Navegador
+
+A modificação de chaves relacionadas ao Microsoft Edge, como DoNotTrack, ShowSearchSuggestionsGlobal, FPEnabled e EnabledV9, visa desabilitar funcionalidades que podem comprometer a privacidade, como rastreamento de navegação e sugestões baseadas em histórico. 
+theregister.com
+
+
 
 **📅 Última atualização:** 07/10/2025
 **👤 Autor:** Bernardo (B7)
