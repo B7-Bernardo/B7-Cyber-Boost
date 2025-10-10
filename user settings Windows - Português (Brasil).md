@@ -156,7 +156,19 @@ O *Core Parking* desativa núcleos ociosos da CPU para economizar energia, mas i
 * **Remove Otimização de Entrega:** Desativa o compartilhamento de atualizações com outros computadores na rede, evitando riscos de segurança em caso de infecção.
 * **Bloqueia notificações:** Impede o aparecimento da mensagem "Atualizações disponíveis".
 
+Windows Update com o propósito de:
+
+✅ Impedir notificações intrusivas (bloqueando MusNotification.exe e MusNotificationUx.exe).
+
+✅ Desabilitar compartilhamento de atualizações via Delivery Optimization (evitando upload de pacotes a outros PCs).
+
+✅ Controlar comportamento de atualizações automáticas, sem desativá-las completamente (mantendo segurança).
+
+A filosofia é “não bloquear o Windows Update, apenas gerenciar o modo de entrega e as notificações”.
+
+
 Em resumo, a função Windows Update do B7 Cyber Boost foca na segurança e em evitar interrupções, mantendo seu sistema atualizado diretamente pela Microsoft e sem notificações incômodas.
 
 ---
+
 
