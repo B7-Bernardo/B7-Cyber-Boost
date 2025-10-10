@@ -1,3 +1,5 @@
+
+
 ---
 
 # ⚙️ B7 Cyber Boost — Nota Importante
@@ -174,3 +176,4 @@ Defina **Permitir Recall** como **Desativado**.
 **🔗 Projeto:** [B7 Cyber Boost](https://github.com/B7-Bernardo/B7-Cyber-Boost)
 
 ---
+
