@@ -157,6 +157,17 @@ Core Parking disables idle CPU cores to save power, but this can cause:
 * **Removes Delivery Optimization:** Disables sharing updates with other PCs on the network, reducing risk if infected.
 * **Blocks notifications:** Prevents annoying “Updates available” messages.
 
+Windows Update com o propósito de:
+
+✅ Impedir notificações intrusivas (bloqueando MusNotification.exe e MusNotificationUx.exe).
+
+✅ Desabilitar compartilhamento de atualizações via Delivery Optimization (evitando upload de pacotes a outros PCs).
+
+✅ Controlar comportamento de atualizações automáticas, sem desativá-las completamente (mantendo segurança).
+
+A filosofia é “não bloquear o Windows Update, apenas gerenciar o modo de entrega e as notificações”.
+
 In short, the Windows Update function in B7 Cyber Boost focuses on security and avoiding interruptions, keeping your system updated directly from Microsoft without intrusive notifications.
 
 ---
+
