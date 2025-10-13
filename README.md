@@ -26,7 +26,8 @@ Faça o download do **B7 Cyber Boost** e salve a pasta diretamente na sua **Áre
 *Download **B7 Cyber Boost** and save the folder directly to your **Desktop**.*
 
 🚀 B7 Cyber Boost — Atualização de Versão.
-📥 Baixe a nova versão: B7CyberBoost-v10.7.1
+
+## 📥 Baixe a nova versão: B7CyberBoost-v10.7.1
 https://github.com/B7-Bernardo/B7-Cyber-Boost/releases/tag/B7CyberBoost-v10.7.1
 
 ---
