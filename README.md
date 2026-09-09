@@ -80,8 +80,6 @@ Se você é um entusiasta de jogos, sabe que desempenho importa.
 
 📫 GitHub: [B7-Bernardo](https://github.com/B7-Bernardo)  
 📺 YouTube: [Canal do B7](https://www.youtube.com/c/CanaldoB7)  
-📷 Instagram: [@canaldob7](https://www.instagram.com/canaldob7)  
-💬 Discord: [Comunidade B7](https://discord.gg/DYzSfHcZEc)  
 
 *GitHub, YouTube, Instagram, Discord and email support channels.*
 
